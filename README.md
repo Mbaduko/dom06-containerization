@@ -18,7 +18,7 @@ compose-app/
 │   ├── Dockerfile         # node:20-alpine image for the API
 │   ├── .dockerignore
 │   ├── package.json
-│   └── server.js          # Express server with two routes
+│   └── app.js             # Express server with two routes
 └── screenshots/
 ```
 
